@@ -3,11 +3,10 @@ This is the home for the sessions content for the series on Machine Learning lea
 
 ### [The first session was June 29](https://www.meetup.com/Fort-Collins-Data-Science/events/240483138/)
 ### [Sondra's ML overview, session 1.5, was July 6](https://www.meetup.com/Fort-Collins-Data-Science/events/240982515/)
-### [The second session is planned for July 13](https://www.meetup.com/Fort-Collins-Data-Science/events/241236268/)
 
 Future session are tentatively schedule for:
 
-- 7/13 session 2 - Linear Regression - Extreme Interpretability
+- 7/13 session 2 - [Linear Regression - Extreme Interpretability](https://www.meetup.com/Fort-Collins-Data-Science/events/241236268/)
 - 7/20 session 3 - Logistic Regression  
 - 7/27 session 4 - Linear and Quadratic Discriminant Analysis (LDA & QDA)  
 - 8/03 session 5 - Trees  
