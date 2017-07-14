@@ -1,0 +1,25 @@
+Motor Trend Car Road Tests
+
+Description
+
+The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
+
+Usage
+
+mtcars
+Format
+
+A data frame with 32 observations on 11 variables.
+
+[, 1]	 model, make and model of car
+[, 2]	 mpg, Miles/(US) gallon
+[, 3]	 cyl, Number of cylinders
+[, 4]	 disp, Displacement (cu.in.)
+[, 5]	 hp, Gross horsepower
+[, 6]	 drat, Rear axle ratio
+[, 7]	 wt, Weight (1000 lbs)
+[, 8]	 qsec, 1/4 mile time
+[, 9]	 vs, V/S
+[,10]	 am, Transmission (0 = automatic, 1 = manual)
+[,11]	 gear, Number of forward gears
+[,12]	 carb, Number of carburetors
